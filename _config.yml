@@ -8,9 +8,6 @@ collections:
  pages:
   output: true
   permalink: /pages/:path/
- blogposts:
-  output: true
-  permalink: /blogposts/:path/
 
 kramdown:  
   parse_block_html: true
