@@ -12,7 +12,5 @@ collections:
   output: true
   permalink: /blogposts/:path/
 
-
-
 kramdown:  
   parse_block_html: true
